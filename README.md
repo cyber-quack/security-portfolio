@@ -16,8 +16,5 @@ IT administration and security controls.
 
 ## 1. Endpoint Protection via Group Policy
 
-**Objective:** Use Group Policy to enforce antivirus settings on all lab computers\
-               from the domain controller, so individual users can't turn protection\
-			   off. Then test it by dropping a harmless fake virus file on a client\
-			   machine and watching Defender catch it.
+-**Objective:** Use Group Policy to enforce antivirus settings on all lab computers from the domain controller, so individual users can't turn protection off. Then test it by dropping a harmless fake virus file on a client machine and watching Defender catch it.
 			   
