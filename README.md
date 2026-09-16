@@ -1,4 +1,4 @@
-#Windows Server and Security Home Lab
+# Windows Server and Security Home Lab
 
 Environment: VirtualBox- Windows Server 2019 (DC), Windows 10 Clients, pfsense,
 Wazuh, Kali
